@@ -1,8 +1,5 @@
 START TYPING BELOW::
 =============================
 
-<<<<<<< HEAD
 1.Arpit arpitagrawal910@gmail.com
-=======
 1. Freeman Murray
->>>>>>> a81004f5047e4a3e042dddb60c03bfcc20a8bdc8
