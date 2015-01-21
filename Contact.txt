@@ -1,12 +1,7 @@
-=============================
 START TYPING BELOW::
-============================
 
 1.Ashwin (ashwinbalaguru.c@gmail.com)
 2.Arpit arpitagrawal910@gmail.com
 3. Freeman Murray
 4. Dolly
-1.Arpit (arpitagrawal910@gmail.com)
-2.Ashwin (ashwinbalaguru.c@gmail.com)
-3. Freeman Murray (email?)
-4. Brice (bgatelet@gmail.com)
+5. Brice (bgatelet@gmail.com)
