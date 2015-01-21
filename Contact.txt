@@ -2,16 +2,6 @@
 START TYPING BELOW::
 =============================
 
-<<<<<<< HEAD
 1.Arpit arpitagrawal910@gmail.com
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
 1.Ashwin (ashwinbalaguru.c@gmail.com)
-=======
-1.Arpit arpitagrawal910@gmail.com
->>>>>>> 58470df5d6155511a2bec09965bcf38b47014059
-=======
->>>>>>> 3064a855322e96e44f00082ddd0bdb7deed93a3a
 1. Freeman Murray
->>>>>>> 8fe785716a93a7a005d900a8537c4303242cddba
